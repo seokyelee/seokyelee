@@ -1,6 +1,6 @@
 # 👋 Hola, soy Seokye  
 
-Actualmente trabajo en **Aperture Technologies** (desde mayo 2025) como **UI/UX Designer**, donde diseño experiencias digitales centradas en el usuario.  
+Actualmente trabajo en **Aperture Technologies** como **UI/UX Designer**, donde diseño experiencias digitales centradas en el usuario.  
 
 Aunque mi perfil principal es de **diseño**, me interesa mucho el **desarrollo front-end** y lo practico con **React** y **Tailwind CSS v4** en proyectos personales.  
 
