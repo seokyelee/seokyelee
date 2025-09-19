@@ -1,10 +1,14 @@
-### Hi there I´m Seokye👋
-After graduating POSTGRADUATE SPECIALIZED IN UX/UI, DIGITAL MARKETING AND FRONT-END WEB DEVELOPMENT at ESAT in Valencia, Spain,
-I am currently working as a freelancer in web design, development, and digital marketing. 
-If you want to contact me, don't hesitate and we'll talk!
+# 👋 Hola, soy Seokye  
 
+Actualmente trabajo en **Aperture Technologies** (desde mayo 2025) como **UI/UX Designer**, donde diseño experiencias digitales centradas en el usuario.  
 
-Hola! Soy Seokye!
-Después de graduarme POSTGRADO ESPECIALIZADO EN UX/UI, MARKETING DIGITAL Y DESARROLLO WEB FRONT-END en ESAT,
-Actualmente trabajo como freelancer en diseño web, desarrollo y marketing digital. 
-Si deseas contactarme, no dudes en hacerlo y conversamos.
+Aunque mi perfil principal es de **diseño**, me interesa mucho el **desarrollo front-end** y lo practico con **React** y **Tailwind CSS v4** en proyectos personales.  
+
+✨ En mi GitHub encontrarás mini proyectos y experimentos donde combino **diseño + código** para seguir aprendiendo y mejorando.  
+
+💡 Mis intereses:  
+- Diseño UI/UX  
+- Front-end con React & Tailwind  
+- Crear experiencias digitales simples, útiles y bonitas  
+
+📌 Ahora mismo estoy desarrollando nuevos proyectos personales con **React** 🚀
